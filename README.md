@@ -1,4 +1,19 @@
 ## Hi there 👋
+# Hi, I'm Purandi Samarawickrama 👋
+
+🎓 **Software Engineering Student**
+
+Welcome to my GitHub profile! I am passionate about software engineering, learning new technologies, and writing clean, efficient code.
+
+---
+
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, HTML, CSS, JavaScript
+- **Version Control:** Git, GitHub
+- **Tools:** VS Code
+
+---
+
 
 <!--
 **PurandiSarasavi/PurandiSarasavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
